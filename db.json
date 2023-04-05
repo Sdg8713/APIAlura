@@ -3,109 +3,109 @@
         {
             "name": "Gorra RedBull 2023",
             "imageURL":"./assets/img/productos/gorras/GorraRB23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "GorraRedBull23"
         },
         {
             "name": "Gorra Ferrari 2023",
             "imageURL":"./assets/img/productos/gorras/GorraFerrari23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "GorraFerrari23"
         },
         {
             "name": "Gorra Mclaren 2023",
             "imageURL":"./assets/img/productos/gorras/GorraMclaren23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "GorraMclaren23"
         },
         {
             "name": "Gorra Aston Martin 2023",
             "imageURL":"./assets/img/productos/gorras/GorraAstonM23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "GorraAstonMartin23"
         },
         {
             "name": "Gorra Alfa Romeo 2023",
             "imageURL":"./assets/img/productos/gorras/GorraAlfaR23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "GorraAlfaRomeo23"
         },
         {
             "name": "Gorra Alpha Tauri 2023",
             "imageURL":"./assets/img/productos/gorras/GorraAlphaT23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "GorraAlphaTauri23"
         },
         {
             "name": "Polo RedBull 2023",
             "imageURL":"./assets/img/productos/camisas/PoloRB23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "PoloRedBull23"
         },
         {
             "name": "Polo Ferrari 2023",
             "imageURL":"./assets/img/productos/camisas/PoloFerrari23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "PoloFerrari23"
         },
         {
             "name": "Polo Mclaren 2023",
             "imageURL":"./assets/img/productos/camisas/PoloMclaren23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "PoloMclaren23"
         },
         {
             "name": "Polo Aston Martin 2023",
             "imageURL":"./assets/img/productos/camisas/PoloAstonM23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "PoloAstonMartin23"
         },
         {
             "name": "Polo Alfa Romeo 2023",
             "imageURL":"./assets/img/productos/camisas/PoloAlfaR23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "PoloAlfaRomeo23"
         },
         {
             "name": "Polo Alpha Tauri 2023",
             "imageURL":"./assets/img/productos/camisas/PoloAlphaT23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "PoloAlphaTauri23"
         },
         {
             "name": "Sudadera RedBull 2023",
             "imageURL":"./assets/img/productos/sudaderas/SudaderaRedBull23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "SudaderaRedBull23"
         },
         {
             "name": "Sudadera Ferrari 2023",
             "imageURL":"./assets/img/productos/sudaderas/SudaderaFerrari23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "SudaderaFerrari23"
         },
         {
             "name": "Sudadera Mclaren 2023",
             "imageURL":"./assets/img/productos/sudaderas/SudaderaMclaren23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "SudaderaMclaren23"
         },
         {
             "name": "Sudadera Aston Martin23",
             "imageURL":"./assets/img/productos/sudaderas/SudaderaAstonM23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "SudaderaAstonMartin23"
         },
         {
             "name": "Sudadera Alfa Romeo 2023",
             "imageURL":"./assets/img/productos/sudaderas/SudaderaAlfaR23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "SudaderaAlfaRomeo23"
         },
         {
             "name": "Sudadera Alpha Tauri 2023",
             "imageURL":"./assets/img/productos/sudaderas/SudaderaAlphaT23.png",
-            "price": "1200",
+            "price": "$1200",
             "id": "SudaderaAlphaTauri23"
         }
     ]
